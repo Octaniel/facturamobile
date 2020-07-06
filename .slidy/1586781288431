@@ -1,0 +1,5 @@
+lib/app/modules/cliente/cliente_module.dart
+lib/app/modules/cliente/cliente_page.dart
+test/app/modules/cliente/cliente_page_test.dart
+lib/app/modules/cliente/cliente_controller.dart
+test/app/modules/cliente/cliente_controller_test.dart

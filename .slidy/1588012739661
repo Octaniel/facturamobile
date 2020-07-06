@@ -1,0 +1,2 @@
+lib/app/modules/compra/compra_repository.dart
+test/app/modules/compra/compra_repository_test.dart

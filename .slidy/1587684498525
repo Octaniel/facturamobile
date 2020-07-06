@@ -1,0 +1,2 @@
+lib/app/modules/seguranca_repository.dart
+test/app/modules/seguranca_repository_test.dart

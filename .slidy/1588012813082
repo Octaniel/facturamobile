@@ -1,0 +1,2 @@
+lib/app/modules/venda/venda_repository.dart
+test/app/modules/venda/venda_repository_test.dart

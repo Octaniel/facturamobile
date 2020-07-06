@@ -1,0 +1,2 @@
+lib/app/modules/promocao/promocao_repository.dart
+test/app/modules/promocao/promocao_repository_test.dart

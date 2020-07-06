@@ -1,0 +1,2 @@
+lib/app/modules/serie/serie_repository.dart
+test/app/modules/serie/serie_repository_test.dart

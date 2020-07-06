@@ -1,0 +1,2 @@
+lib/app/modules/fornecedor_store.dart
+test/app/modules/fornecedor_store_test.dart

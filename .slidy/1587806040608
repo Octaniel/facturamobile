@@ -1,0 +1,2 @@
+lib/app/modules/fornecedor/views/fornecedor_pesquisa/fornecedor_pesquisa_widget.dart
+test/app/modules/fornecedor/views/fornecedor_pesquisa/fornecedor_pesquisa_widget_test.dart
